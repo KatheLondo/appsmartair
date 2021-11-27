@@ -11,6 +11,7 @@ const config = {
   password: '',
   database: '',
   useNewUrlParser: true
+
 };
 
 // Observe application's life cycle to disconnect the datasource when
